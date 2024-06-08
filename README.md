@@ -1,4 +1,5 @@
-3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Bin Aslam.</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah30nov&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah30nov" /> </p>
 
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah30nov&show_icons=true&locale=en" alt="abdullah30nov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah30nov&" alt="abdullah30nov" /></p>
-
