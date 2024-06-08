@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah30nov" alt="abdullah30nov" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend Developer**
 
 - 💬 Ask me about **HTML,CSS,ES5,BOOTSTRAP**
 
