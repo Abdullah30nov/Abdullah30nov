@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT AND BOOTSTRAP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP AND REACT JS**
 
 - 📫 How to reach me **abdullahbinaslam64@gmail.com**
 
