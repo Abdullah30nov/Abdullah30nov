@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah30nov" alt="abdullah30nov" /></a> </p>
 
-- 🔭 I’m currently working on [ReactJS, NextJS & React Native](https://www.ebike.pk/)
+- 🔭 I’m currently working on ebike(https://www.ebike.pk/)
 
 - 🌱 I’m currently learning **Backend Development.**
 
