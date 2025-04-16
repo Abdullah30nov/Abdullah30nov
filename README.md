@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah30nov" alt="abdullah30nov" /></a> </p>
 
-- 🔭 I’m currently working on ebikehttps://www.ebike.pk/
+- 🔭 I’m currently working on https://ebike.pk
 
 - 🌱 I’m currently learning **Backend Development.**
 
-- 👨‍💻 All of my projects are available at [https://abdullahbinaslam.netlify.app/] https://abdullahbinaslam.netlify.app/
+- 👨‍💻 All of my projects are available at https://abdullahbinaslam.netlify.app
 
 - 💬 Ask me about **JavaScript, ReactJs, HTML, CSS, Firebase, React-Native, NodeJs, MongoDB**
 
