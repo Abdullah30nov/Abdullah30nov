@@ -1,4 +1,5 @@
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Abdullah Bin Aslam.</h1>
+<h1 align="center">𝔸𝕤𝕤𝕒𝕝𝕒𝕞-𝕠-𝔸𝕝𝕒𝕚𝕜𝕦𝕞 👋, 𝕀'𝕞 𝔸𝕓𝕕𝕦𝕝𝕝𝕒𝕙 𝔹𝕚𝕟 𝔸𝕤𝕝𝕒𝕞.</h1>
 <h3 align="center">I'm a Passionate MERN Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah30nov&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah30nov" /> </p>
