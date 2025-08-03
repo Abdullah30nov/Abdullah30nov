@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development.**
 
-- 👨‍💻 All of my projects are available at https://abdullahbinaslam.netlify.app
+- 👨‍💻 All of my projects are available at https://abdullah-bin-aslam.vercel.app
 
 - 💬 Ask me about **JavaScript, ReactJs, HTML, CSS, Firebase, React-Native, NodeJs, MongoDB**
 
